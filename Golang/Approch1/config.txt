@@ -1,0 +1,5 @@
+customer1.us.ca.*= server1
+customer2.us.*.*= server3
+customer2.*.*.*= server4
+*.*.*.* = server5
+customer1.us.ca.sjc =server2
